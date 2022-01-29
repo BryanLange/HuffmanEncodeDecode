@@ -8,6 +8,6 @@
     <ul>
       <li> Input: Name of file to be encoded. </li>
       <li> Output: Compressed file. </li>
-      <li> Output: Rebuilt file. </li>
+      <li> Output: Decompressed file. </li>
     </ul>
 </ul>
